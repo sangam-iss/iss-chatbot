@@ -1,0 +1,10 @@
+Place 1	:	Gardens by the Bay - The lush and beautiful Gardens by the Bay is dominated by 	the sleekly sculptured biodomes—marvels of architecture, design and engineering.
+HoursRequired:	2 to 3 hours
+Place 2	:	Singapore Botanic Gardens The Singapore Botanic Gardens is a 160-year-old only tropical garden to be honoured as a UNESCO World Heritage Site.
+HoursRequired:	2 to 3 hours
+Place 3	:	Singapore Zoo - Set in a rainforest environment, Singapore Zoo's world-famous "Open Concept" offers the opportunity to experience and be inspired by the wonders of nature.
+HoursRequired:	1 to 2 hours
+Place 4	:	River Safari - The River Safari is a river-themed zoo and aquarium and It is the first of its kind in Asia and features freshwater exhibits and a river boat ride as its main highlights.
+HoursRequired:	1 to 2 hours
+Place 5	:	Night Safari - The Night Safari is the world's first nocturnal zoo and is one of the most popular tourist attractions in Singapore.
+HoursRequired:	1 to 2 hours

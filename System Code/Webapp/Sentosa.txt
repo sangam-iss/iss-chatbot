@@ -1,0 +1,4 @@
+Place 1	:	Universal Studios - Universal Studios Singapore is a theme park located within Resorts World Sentosa on Sentosa Island, Singapore. It features 28 rides, shows, and attractions in seven themed zones. It was a key component of Genting's bid for the right to build Singapore's second integrated resort.
+HoursRequired:	5 to 6 hours
+Place 4	:	S.E.A Aquarium - S.E.A Aquarium on Sentosa Island is one of Singapore’s finest family-friendly, all-weather attractions. It’s also one of the largest aquariums in the world.
+HoursRequired:	1 to 2 hours

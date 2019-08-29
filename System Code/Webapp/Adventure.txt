@@ -1,0 +1,8 @@
+Place 1	:	Mount Faber - Singapore’s second highest hill, but that would deprive you of experiencing one of the most popular attractions in the country
+HoursRequired:	2 to 3 hours
+Place 2	:	Sentosa-Mega Adventure Park - Mega Adventure operate the world famous MegaZip flying fox, that spans 450 m, where you fly at 60 km/h over the jungle and beaches of the Island.
+HoursRequired:	3 to 4 hours
+Place 3	:	Singapore Flyer - Singapore Flyer, the world's largest giant observation wheel, reaches to the Spice Islands of Indonesia and Malaysia's Straits of Johor.
+HoursRequired:	2 to 3 hours
+Place 4	:	Night Safari - The Night Safari is the world's first nocturnal zoo and is one of the most popular tourist attractions in Singapore.
+HoursRequired:	1 to 2 hours

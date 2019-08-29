@@ -1,0 +1,10 @@
+Place 1	:	China Cultural Centre - The China Cultural Centre is a cultural centre about China in Central Area, Singapore. It consists of a mix of heritage visits.
+HoursRequired:	2 to 3 hours
+Place 2	:	Buddha Tooth Relic Temple and Museum - It is a Buddhist temple and museum complex based on the Tang dynasty architectural style it is built to house the tooth relic of the historical Buddha.
+HoursRequired:	2 to 3 hours
+Place 3	:	Art Science Museum - it is the world's first ArtScience museum.Referred to as "The Welcoming Hand of Singapore"
+HoursRequired:	1 to 2 hours
+Place 4	:	National Gallery Singapore - National Gallery Singapore is a visual arts institution which oversees the largest public collection of modern art in Singapore and Southeast Asia.
+HoursRequired:	1 to 2 hours
+Place 5	:	Sri Mariamman Temple - The Sri Mariamman Temple is Singapore's oldest Hindu temple. It is an agamic temple, built in the Dravidian style.
+HoursRequired:	1 to 2 hours

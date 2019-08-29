@@ -1,0 +1,8 @@
+Place 1	:	Gardens by the Bay - Welcome to Siloso, a sunny haven where excitement takes precedence, over boredom.
+HoursRequired:	1 to 2 hours
+Place 2	:	Marina Bay Beach - A visit to Marina Bay is guaranteed to bombard your senses.
+HoursRequired:	1 to 2 hours
+Place 3	:	Boat Quay - Boat Quay is a historical quay in Singapore which is situated upstream from the mouth of the Singapore River
+HoursRequired:	2 to 3 hours
+Place 4	:	East Coast Park - East Coast Park is one of Singapore's most treasured urban getaways, offering an invigorating and exciting diversity of sporting, dining and recreational activities.
+HoursRequired:	2 to 3 hours

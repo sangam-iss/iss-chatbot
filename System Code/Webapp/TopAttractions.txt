@@ -1,0 +1,8 @@
+Place 1	:	Gardens by the Bay - The lush and beautiful Gardens by the Bay is dominated by 	the sleekly sculptured biodomes—marvels of architecture, design and engineering.
+HoursRequired:	2 to 3 hours
+Place 2	:	Merlion Park - Singapore's Merlion is just what it sounds like - the figure of a mythical creature that has the head of a lion and the body and tail of a fish.
+HoursRequired:	1 to 2 hours
+Place 3	:	Singapore Flyer - Singapore Flyer, the world's largest giant observation wheel, reaches to the Spice Islands of Indonesia and Malaysia's Straits of Johor.
+HoursRequired:	2 to 3 hours
+Place 4	:	S.E.A Aquarium - S.E.A Aquarium on Sentosa Island is one of Singapore’s finest family-friendly, all-weather attractions. It’s also one of the largest aquariums in the world.
+HoursRequired:	2 to 3 hours
