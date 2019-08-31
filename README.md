@@ -19,6 +19,8 @@ Due to the rapid growth of this sector, tourists can easily be overwhelmed with 
 | Mercedes Premalatha Ramesh | A0198411A | Brainstorming, Data Collection, Data Pre-Processing, Google Dialogflow Intents, Testing, Presentation Video | [mercedes@u.nus.edu](mailto:mercedes@u.nus.edu) |
 
 **Video Presentation**
+Please refer to the below URL for Video Report.
+[https://www.youtube.com/watch?v=awfbmDnbxuE]
 
 **Installation Guide**
 
