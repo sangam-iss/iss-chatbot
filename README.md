@@ -21,22 +21,22 @@ Due to the rapid growth of this sector, tourists can easily be overwhelmed with 
 **Video Presentation**
 
 Please refer to the below URL for Video Report.
-[https://www.youtube.com/watch?v=awfbmDnbxuE](Video Report)
+[Video Report](https://www.youtube.com/watch?v=awfbmDnbxuE)
 
 **Installation Guide**
 
 Please refer to the below URL for the Installation Guide.
 
-[https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/Installation%20Guide.pdf](Installation Guide)
+[Installation Guide](https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/Installation%20Guide.pdf)
 
 **User Guide**
 
 Please download the User Guide from below URL.
 
-[https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/User%20Guide.pdf](User Guide)
+[User Guide](https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/User%20Guide.pdf)
 
 **Project Report**
 
 Please download the Project Report from below URL.
 
-[https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/ProjectReport.pdf](Project Report)
+[Project Report](https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/ProjectReport.pdf)
