@@ -19,23 +19,24 @@ Due to the rapid growth of this sector, tourists can easily be overwhelmed with 
 | Mercedes Premalatha Ramesh | A0198411A | Brainstorming, Data Collection, Data Pre-Processing, Google Dialogflow Intents, Testing, Presentation Video | [mercedes@u.nus.edu](mailto:mercedes@u.nus.edu) |
 
 **Video Presentation**
+
 Please refer to the below URL for Video Report.
-[https://www.youtube.com/watch?v=awfbmDnbxuE]
+[https://www.youtube.com/watch?v=awfbmDnbxuE](Video Report)
 
 **Installation Guide**
 
 Please refer to the below URL for the Installation Guide.
 
-[https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/Installation%20Guide.pdf](https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/Installation%20Guide.pdf)
+[https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/Installation%20Guide.pdf](Installation Guide)
 
 **User Guide**
 
 Please download the User Guide from below URL.
 
-[https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/User%20Guide.pdf](https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/User%20Guide.pdf)
+[https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/User%20Guide.pdf](User Guide)
 
 **Project Report**
 
 Please download the Project Report from below URL.
 
-[https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/ProjectReport.pdf](https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/ProjectReport.pdf)
+[https://github.com/sangam-iss/iss-chatbot/blob/master/Reports/ProjectReport.pdf](Project Report)
